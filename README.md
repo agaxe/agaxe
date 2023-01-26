@@ -40,7 +40,7 @@
       <img src="https://img.shields.io/badge/Portfolio-2577F0?style=flat&logo=Macy%E2%80%99s&logoColor=white" alt=Portfolio-badge/>
     </a> -->
     <a href="https://blog-agaxe.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Blog-333333?style=flat&logo=Bitdefender&logoColor=white" alt=Blog-badge/>
+      <img src="https://img.shields.io/badge/Blog-f59f00?style=flat&logo=Bitdefender&logoColor=white" alt=Blog-badge/>
     </a> 
   </div>
 </div>
